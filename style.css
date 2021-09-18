@@ -1,0 +1,37 @@
+body {
+    font-family: 'Patrick Hand', cursive;
+    background: rgb(138, 138, 138);
+}
+
+.header_div {
+    background: white;
+    color: red;
+}
+
+.header_div p {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(255, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    line-height: 3;
+}
